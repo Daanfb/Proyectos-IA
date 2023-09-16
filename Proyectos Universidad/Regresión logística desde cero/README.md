@@ -1,0 +1,1 @@
+El archivo principal en el que se trabajó es *trabajo_aia_2022_2023.py*. Este archivo incluye explicaciones detalladas de las tareas que se debían llevar a cabo. Los demás archivos fueron proporcionados por el profesor como recursos adicionales para el proyecto.
